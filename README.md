@@ -1,6 +1,6 @@
 ### Olá, eu sou o Ricardo Oliveira!! 🙋‍♂️
 
-- 👨‍🎓 Graduando em ADS pelo IFPB-Campus Cajazeiras
+- 👨‍🎓 Graduando em ADS pelo IFPB - Campus Cajazeiras-PB
 
 <div align="center">
   <a href="https://github.com/RicardoOliveira89">
