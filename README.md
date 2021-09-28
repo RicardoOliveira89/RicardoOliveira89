@@ -24,8 +24,5 @@
   <a href="https://api.whatsapp.com/send?phone=5583996377205&text=Ol%C3%A1,%20eu%20sou%20Ricardo%20Oliveira,%20deixe%20sua%20mensagem." target="_blank" class="float"><img src="https://img.shields.io/badge/-WhatsApp-E12B5?style=for-the-badge&logo=WhatsApp&logoColor=white">
   <a href="https://www.instagram.com/ricardo_oliveira_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me/721893845129756733" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
