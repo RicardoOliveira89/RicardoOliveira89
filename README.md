@@ -1,6 +1,6 @@
 ### Olá, eu sou o Ricardo Oliveira!! 🙋‍♂️
 
-- Analista de Testes e Qualidade de Software (QA) na CWI Software.
+- Analista de Testes e Qualidade de Software (QA) 
 - 👨‍🎓 Graduando em ADS pelo IFPB - Campus Cajazeiras-PB.
 
 <div align="center">
