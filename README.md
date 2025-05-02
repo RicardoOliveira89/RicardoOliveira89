@@ -25,7 +25,7 @@
 <div> 
   
   <a href="https://www.linkedin.com/in/paulo-ricardo-oliveira-dos-santos-30374b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ricardooliveira.qa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ricardooliveiraadvpb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/RicardoOliveira89" target="_blank" class="float"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white%22%20target=%22_blank%22">
  
 </div>
