@@ -1,7 +1,7 @@
 ### Olá, eu sou o Ricardo Oliveira!! 🙋‍♂️
 
 - Analista de Testes e Qualidade de Software (QA) 
-- 👨‍🎓 Pós-Graduando em Automação de Testes ed Software (Júlio de Lima - Faculdade VINCIT).
+- 👨‍🎓 Pós-Graduando em Automação de Testes de Software (Júlio de Lima - Faculdade VINCIT).
 
 <div align="center">
   
