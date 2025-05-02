@@ -1,7 +1,7 @@
 ### Olá, eu sou o Ricardo Oliveira!! 🙋‍♂️
 
 - Analista de Testes e Qualidade de Software (QA) 
-- 👨‍🎓 Graduando em ADS pelo IFPB - Campus Cajazeiras-PB.
+- 👨‍🎓 Pós-Graduando em Automação de Testes ed Software (Júlio de Lima - Faculdade VINCIT).
 
 <div align="center">
   
@@ -27,6 +27,5 @@
   <a href="https://www.linkedin.com/in/paulo-ricardo-oliveira-dos-santos-30374b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ricardooliveira.qa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/RicardoOliveira89" target="_blank" class="float"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white%22%20target=%22_blank%22">
-  <a href="https://www.instagram.com/ricardo_oliveira_s/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
 </div>
