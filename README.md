@@ -3,9 +3,9 @@
 **`Analista de Testes e Qualidade de Software (QA)`**
 👨‍🎓 Pós-Graduando em Automação de Testes de Software (Júlio de Lima - Faculdade FACINT).
 
-Profissional com experiência prática em testes manuais e automatizados,
-garantindo a qualidade de aplicações web e APIs. Atuação com ferramentas como Cypress, Playwright,
-Postman e SQL Server. Habilidades na criação de planos de teste, execução de testes funcionais,
+Profissional com mais de 3 anos de experiência como QA, atuando com testes manuais e automatizados,
+garantindo a qualidade de aplicações web e APIs. Utilizando ferramentas tais como Cypress, Playwright,
+Postman, etc. Habilidades na criação de planos de teste e escrita de cenários com Gherkin, execução de testes funcionais,
 identificação de inconsistências e reports, colaboração com times ágeis de desenvolvimento, facilidade de comunicação (escrita e oral), organização e foco em resultados.
 
 <a href="https://www.linkedin.com/in/paulo-ricardo-oliveira-dos-santos-30374b11a/" 
