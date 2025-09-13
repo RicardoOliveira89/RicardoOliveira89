@@ -1,6 +1,6 @@
 # Ricardo Oliveira 
 
-**`Analista de Testes e Qualidade de Software (QA)`**
+**`Analista de Testes e Qualidade de Software (QA)`** <br>
 👨‍🎓 Pós-Graduando em Automação de Testes de Software (Júlio de Lima - Faculdade FACINT).
 
 Profissional com mais de 3 anos de experiência como QA, atuando com testes manuais e automatizados,
